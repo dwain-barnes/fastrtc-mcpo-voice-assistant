@@ -1,0 +1,11 @@
+# FastRTC with voice processing features
+fastrtc[vad,stt,tts]
+
+# MCPO adapter for MCP to OpenAI conversion
+ollama-mcpo-adapter
+
+# Ollama Python client
+ollama
+
+# HTTP requests for API calls
+requests
