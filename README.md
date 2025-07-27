@@ -43,8 +43,7 @@ This project bridges MCP servers and OpenAI-compatible LLMs by:
 
 ### Prerequisites
 
-- Python 3.8+
-- Node.js (for MCP servers)
+- Python 3.12+
 - Ollama installed and running
 - FastRTC dependencies
 
