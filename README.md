@@ -130,7 +130,6 @@ This opens a web interface at `http://127.0.0.1:7860` where you can:
 ```
 ├── mcpo_service_only.py      # MCPO service runner
 ├── fastrtc_mcpo_voice.py     # Voice assistant with tool integration
-├── ollama_mcpo_adapter.py    # MCP to OpenAI adapter (your module)
 └── README.md                 # This file
 ```
 
