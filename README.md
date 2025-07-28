@@ -67,15 +67,6 @@ This project bridges MCP servers and OpenAI-compatible LLMs by:
    pip install ollama requests
    ```
 
-3. **Install MCP servers**
-   ```bash
-   # Time server
-   uvx mcp-server-time
-   
-   # Airbnb server
-   npx -y @openbnb/mcp-server-airbnb
-   ```
-
 4. **Start Ollama**
    ```bash
    ollama serve
